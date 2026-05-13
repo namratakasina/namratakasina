@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ML, End to End deployment of project on various platforms
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me :
-- LinkedIn: https://www.linkedin.com/in/namrata-kasina-bb318313a/
+- LinkedIn: https://www.linkedin.com/in/namrata-kasina
 
 <!---
 namratakasina/namratakasina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
