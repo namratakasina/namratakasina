@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @namratakasina
+- 
 Data Scientist | ML Engineer | IoT · Time-Series · RAG · LLM
 📍 Graz, Austria | Open to Work | Rot Weiß Rot Karte+
 
